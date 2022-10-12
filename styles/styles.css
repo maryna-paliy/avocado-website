@@ -1,0 +1,30 @@
+body {
+  background: rgb(78, 130, 78);
+}
+
+h1 {
+  text-align: center;
+  color: aquamarine;
+}
+
+p {
+  margin: 0 100px;
+  color: aquamarine;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+div {
+  text-align: center;
+  margin: 20px;
+}
+a {
+  color: aquamarine;
+  margin: 0 10px;
+}
